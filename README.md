@@ -14,7 +14,6 @@
 
 - 🔭 I’m currently working on **enhancing my full-stack development skills**
 - 📫 How to reach me: **dinesh31191@gmail.com**
-- ⚡ Fun fact: **I enjoy solving real-world problems by building simple, efficient tools**
 
 ---
 
