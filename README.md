@@ -12,10 +12,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **enhancing my full-stack and machine learning projects**
-- 🌱 I’m currently learning **advanced Python, ML concepts & backend development**
-- 👯 I’m looking to collaborate on **open-source projects involving Java, Python & data analysis**
-- 💬 Ask me about **object-oriented programming, Python ML pipelines & project architecture**
+- 🔭 I’m currently working on **enhancing my full-stack and learning**
+- 🌱 I’m currently learning **advanced frontend & backend development**
 - 📫 How to reach me: **dinesh31191@gmail.com**
 - ⚡ Fun fact: **I enjoy solving real-world problems by building simple, efficient tools**
 
