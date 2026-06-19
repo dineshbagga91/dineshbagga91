@@ -12,8 +12,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **enhancing my full-stack and learning**
-- 🌱 I’m currently learning **advanced frontend & backend development**
+- 🔭 I’m currently working on **enhancing my full-stack development skills**
 - 📫 How to reach me: **dinesh31191@gmail.com**
 - ⚡ Fun fact: **I enjoy solving real-world problems by building simple, efficient tools**
 
